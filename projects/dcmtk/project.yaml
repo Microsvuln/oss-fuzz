@@ -1,9 +1,9 @@
 homepage: "https://dicom.offis.de/dcmtk.php.en"
 main_repo: "https://github.com/DCMTK/dcmtk.git"
 language: c++
-primary_contact: ""
+primary_contact: "bugs@dcmtk.org"
 auto_ccs:
-  - ""
+  - "arash.vre@gmail.com"
 sanitizers:
   - address
   - undefined
